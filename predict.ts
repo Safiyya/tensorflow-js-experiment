@@ -48,14 +48,12 @@ export const predict = async (
   model: tf.LayersModel,
   { wordIndex, indexFrom, vocabularySize, maxLen }: ModelMetadata
 ) => {
-  // console.log(sentence);
   // remove punctuation and split get individual words
   const inputText = sentence
     .trim()
     .toLowerCase()
     .replace(/(\.|\,|\!)/g, "")
     .split(" ");
-  // console.log(inputText);
   // matches words with metadata value
   const excluded: string[] = [];
   const sequence = inputText
@@ -73,8 +71,6 @@ export const predict = async (
     })
     .filter((s) => !!s) as number[];
 
-  // console.log(sequence, excluded);
-
   // padding
   const paddedSequence = pad([sequence], maxLen);
 
@@ -85,7 +81,5 @@ export const predict = async (
   const score = prediction.dataSync()[0];
   prediction.dispose();
 
-  const sentiment = score > 0.65 ? "Positive" : "Negative";
-
-  return { sentence, score, sentiment, excluded };
+  return { sentence, score, excluded };
 };

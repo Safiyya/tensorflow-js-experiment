@@ -1,6 +1,7 @@
+import { compact, flatten } from "lodash";
 import sendbird from "./sendbird";
 
-export interface Message {
+export interface Message extends Channel {
   user: {
     nickname: string;
     user_id: string;
@@ -9,33 +10,50 @@ export interface Message {
   message: string;
   created_at: number;
   message_i: number;
+  channel_url: string;
 }
 
-const getMessages = async (
+export interface Channel {
+  name: string;
+  channel_url: string;
+  joined_member_count: number;
+}
+
+const fetchMessages = async (
   channelId: string,
   messageTimestamp: number
 ): Promise<Message[]> => {
   // URL for all messages in channel
   const url = `group_channels/${channelId}/messages?message_ts=${messageTimestamp}&next_limit=200&prev_limit=0`;
-  200;
+  //   console.log(url);
   const response = await sendbird(url);
   return (await response.json()).messages;
 };
 
-export const getAllMessages = async (channelId: string) => {
-  let allMessages: Message[] = [];
+export const getMessages = async (channelUrl: string) => {
+  let starts: number[] = [];
 
-  const fetchWithPagination = async (start: number) => {
-    const messages = await getMessages(channelId, start);
-    allMessages = allMessages.concat(messages);
+  const recursion = async (start: number) => {
+    starts.push(start);
+    const messages = await fetchMessages(channelUrl, start);
     if (messages.length > 0) {
       start = messages[messages.length - 1].created_at + 1;
-      fetchWithPagination(start);
+      recursion(start);
     } else {
-      return allMessages;
+      //   starts.push(start);
     }
-    return allMessages;
+    return starts;
   };
+  const finalStarts = await recursion(0);
 
-  return fetchWithPagination(0);
+  return Promise.all(
+    finalStarts.map((start) => fetchMessages(channelUrl, start))
+  ).then((messages) => flatten(messages));
+};
+
+export const getGroupChannels = async (): Promise<Channel[]> => {
+  const url = `group_channels?custom_type=group&order=channel_name_alphabetical`;
+
+  const response = await sendbird(url);
+  return (await response.json()).channels;
 };
