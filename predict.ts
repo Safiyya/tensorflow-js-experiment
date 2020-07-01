@@ -1,31 +1,5 @@
-const tf = require("@tensorflow/tfjs-node");
-const fetch = require("node-fetch");
-const { imag } = require("@tensorflow/tfjs-node");
-
-const modelUrl =
-  "https://storage.googleapis.com/tfjs-models/tfjs/sentiment_cnn_v1/model.json";
-const metadataUrl =
-  "https://storage.googleapis.com/tfjs-models/tfjs/sentiment_cnn_v1/metadata.json";
-
-const loadModel = async () => {
-  return tf.loadLayersModel(modelUrl);
-};
-
-const loadMetadata = async () => {
-  try {
-    const metadataJson = await fetch(metadataUrl);
-    const sentimentMetadata = await metadataJson.json();
-
-    const indexFrom = sentimentMetadata.index_from;
-    const maxLen = sentimentMetadata.max_len;
-    const wordIndex = sentimentMetadata.word_index;
-    const vocabularySize = sentimentMetadata.vocabulary_size;
-
-    return { indexFrom, maxLen, wordIndex, vocabularySize };
-  } catch (err) {
-    console.error(err);
-  }
-};
+import * as tf from "@tensorflow/tfjs-node";
+import { ModelMetadata } from "./loader";
 
 /**
  * Peforms pad sequencing so that all sentences have the exact same length before prediction
@@ -37,11 +11,11 @@ const loadMetadata = async () => {
  * @tutorial https://keras.io/api/preprocessing/timeseries/
  */
 const pad = (
-  sequences,
-  maxLen,
-  padding = "pre",
-  truncating = "pre",
-  value = 0
+  sequences: number[][],
+  maxLen: number,
+  padding: "pre" | "post" = "pre",
+  truncating: "pre" | "post" = "pre",
+  value: number = 0
 ) => {
   return sequences.map((seq) => {
     // truncating
@@ -69,14 +43,13 @@ const pad = (
   });
 };
 
-const predict = async () => {
-  const text = "I want to kill myself";
-
-  const model = await loadModel();
-  const { wordIndex, maxLen, indexFrom, vocabularySize } = await loadMetadata();
-
+export const predict = async (
+  sentence: string,
+  model: tf.LayersModel,
+  { wordIndex, indexFrom, vocabularySize, maxLen }: ModelMetadata
+) => {
   // remove punctuation and split get individual words
-  const inputText = text
+  const inputText = sentence
     .trim()
     .toLowerCase()
     .replace(/(\.|\,|\!)/g, "")
@@ -98,11 +71,11 @@ const predict = async () => {
   // creates 2d tensor (2D matrix) with consistent length
   const input = tf.tensor2d(paddedSequence, [1, maxLen]);
 
-  const prediction = model.predict(input);
+  const prediction = model.predict(input) as tf.Tensor<tf.Rank>;
   const score = prediction.dataSync()[0];
   prediction.dispose();
 
-  console.log(text, score);
-};
+  const sentiment = score > 0.65 ? "Positive" : "Negative";
 
-predict();
+  return { sentence, score, sentiment };
+};

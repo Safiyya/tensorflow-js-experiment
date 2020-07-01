@@ -19,6 +19,7 @@
   "dependencies": {
     "@tensorflow/tfjs-node": "^2.0.1",
     "fetch": "^1.1.0",
-    "node-fetch": "^2.6.0"
+    "node-fetch": "^2.6.0",
+    "ts-node": "^8.10.2"
   }
 }
