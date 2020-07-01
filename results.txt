@@ -1,0 +1,1436 @@
+***************
+Hi. Just testing!
+score : 0.5021255612373352
+sentiment : Negative
+excluded words : 
+author:  Sally Pegg
+createdAt: 2020-06-01T17:10:50.618Z
+***************
+Hi Sally 👋
+score : 0.3181892931461334
+sentiment : Negative
+excluded words : 👋
+author:  Lisa Holmes
+createdAt: 2020-06-01T17:11:48.825Z
+***************
+Hi x
+score : 0.4703521430492401
+sentiment : Negative
+excluded words : 
+author:  Lacey James
+createdAt: 2020-06-01T17:16:46.224Z
+***************
+Hi lacey! 😊
+score : 0.7263301610946655
+sentiment : Positive
+excluded words : 😊
+author:  Lisa Holmes
+createdAt: 2020-06-01T17:17:30.210Z
+***************
+Hi Sally, Lisa and Lacey!! 😊
+score : 0.9060069918632507
+sentiment : Positive
+excluded words : 😊
+author:  Helen Ala
+createdAt: 2020-06-01T17:27:31.199Z
+***************
+Hi Helen and lisa xx
+score : 0.994915246963501
+sentiment : Positive
+excluded words : 
+author:  Lacey James
+createdAt: 2020-06-01T17:47:02.373Z
+***************
+I hope everyone is having a good evening and is excited to get started on the training! 🙌
+score : 0.8820110559463501
+sentiment : Positive
+excluded words : 🙌
+author:  Lisa Holmes
+createdAt: 2020-06-01T17:49:10.798Z
+***************
+Yes cant wait plus all this lovely weather
+score : 0.9949496984481812
+sentiment : Positive
+excluded words : 
+author:  Lacey James
+createdAt: 2020-06-01T17:50:50.672Z
+***************
+It is just beautiful at the moment isn't it! I can't quite believe it is only just June! I think it has officially been the hottest spring on record ☀️☀️☀️
+score : 0.9996745586395264
+sentiment : Positive
+excluded words : ☀️☀️☀️
+author:  Lisa Holmes
+createdAt: 2020-06-01T17:54:37.493Z
+***************
+Omg - it’s so gorgeous - such a blessing. Where about are you writing, ladies? Have a wonderful evening! 🌞😘
+score : 0.9592471718788147
+sentiment : Positive
+excluded words : -,-,ladies?,🌞😘
+author:  Helen Ala
+createdAt: 2020-06-01T18:40:54.952Z
+***************
+I am writing from North-London! 😊
+score : 0.001341953407973051
+sentiment : Negative
+excluded words : north-london,😊
+author:  Helen Ala
+createdAt: 2020-06-01T18:42:29.910Z
+***************
+Hello everyone, nice to meet you all 😁 I'm also from north London
+score : 0.9994184970855713
+sentiment : Positive
+excluded words : 😁
+author:  Trisha Burridge
+createdAt: 2020-06-01T18:44:22.242Z
+***************
+Sw london xx
+score : 0.8625872731208801
+sentiment : Positive
+excluded words : 
+author:  Lacey James
+createdAt: 2020-06-01T18:48:02.582Z
+***************
+Hi Trisha! So nice to meet you. Any chance you live close to Seven Sister’s? Just dreaming... 😊
+score : 0.9969887137413025
+sentiment : Positive
+excluded words : trisha,sister’s?,😊
+author:  Helen Ala
+createdAt: 2020-06-01T18:49:10.115Z
+***************
+Im in Southgate so not too far from seven sisters
+score : 0.7063202857971191
+sentiment : Positive
+excluded words : southgate
+author:  Trisha Burridge
+createdAt: 2020-06-01T20:32:39.257Z
+***************
+That’s good to know, Trisha! 😊
+score : 0.7823623418807983
+sentiment : Positive
+excluded words : trisha,😊
+author:  Helen Ala
+createdAt: 2020-06-02T19:25:02.096Z
+***************
+Hi everyone sorry for the late replies. Putting little one to bed. I am in Plaistow east London. Excited to get going. How is everyone’s evening?
+score : 0.8085291385650635
+sentiment : Positive
+excluded words : plaistow,everyone’s,evening?
+author:  Sara Shenair
+createdAt: 2020-06-02T19:28:01.563Z
+***************
+Hi nice to meet you all :) I'm from South West London. Hope your all doing well x
+score : 0.9941806197166443
+sentiment : Positive
+excluded words : :)
+author:  Poonam Sawhney
+createdAt: 2020-06-02T20:07:57.461Z
+***************
+Good evening all, nice to meet you. I'm in West London, Hammersmith
+score : 0.9901651740074158
+sentiment : Positive
+excluded words : hammersmith
+author:  Linnette Jeffrey
+createdAt: 2020-06-02T20:10:01.265Z
+***************
+Good evening everyone, nice to meet you all. I'm in South-east London. Hope you all are keeping safe.
+score : 0.9997853636741638
+sentiment : Positive
+excluded words : south-east
+author:  Salami Oyebisi
+createdAt: 2020-06-02T20:30:23.605Z
+***************
+Hi Sara. I am trying to type but my cat decided to climb on top of me, so it’s slightly challenging. 😄
+I am very excited about the training and overall to start off fresh. Are you currently working, on furlough or a stay at home mum? 😊 Have a wonderful evening, everyone!
+score : 0.9992522597312927
+sentiment : Positive
+excluded words : 😄
+i,mum?,😊
+author:  Helen Ala
+createdAt: 2020-06-02T20:45:50.535Z
+***************
+Hi Helen, I am on furlough at the moment, I am loving the extra time with my little one. What about yourself?
+score : 0.9086488485336304
+sentiment : Positive
+excluded words : yourself?
+author:  Sara Shenair
+createdAt: 2020-06-02T20:50:58.677Z
+***************
+Hi good evening everyone nice to meet you all my name is Rieann. I am in upton park area. I am so looking forward to starting this new journey and wish u all the best hope you all remain safe and well.
+score : 0.9998599290847778
+sentiment : Positive
+excluded words : rieann,upton
+author:  Rieann Thomas
+createdAt: 2020-06-02T20:52:48.967Z
+***************
+Hi Rieann, nice to mee you too. Sara, I am also on furlough. Yes, it has been exceptional to spend so much time together. Very enjoyable but also challenging, don’t you think?
+score : 0.999835729598999
+sentiment : Positive
+excluded words : rieann,don’t,think?
+author:  Helen Ala
+createdAt: 2020-06-02T20:56:07.363Z
+***************
+Really challenging. I used to try to plan elaborate activities for her but now I mainly let her run the play, throwing in some baking and random science experiments. Today I tried the elephant toothpaste. She loved it but said she wanted it to me rainbow coloured. Now getting rainbow food colouring to see what happens.
+score : 0.994492769241333
+sentiment : Positive
+excluded words : 
+author:  Sara Shenair
+createdAt: 2020-06-02T21:11:46.303Z
+***************
+Loving this group chat btw. Such a nice idea to get us all chatting.
+score : 0.9932428002357483
+sentiment : Positive
+excluded words : 
+author:  Sara Shenair
+createdAt: 2020-06-02T21:12:44.685Z
+***************
+Sara, your daughter sounds really cute. 😍 How old? We have been extremely laid back with my son. We mostly spend time playing with water in the garden and playing ball. He’s a big football enthusiast. So lovely to be chatting here, I second that.
+score : 0.9992021918296814
+sentiment : Positive
+excluded words : 😍,old?
+author:  Helen Ala
+createdAt: 2020-06-02T21:26:15.635Z
+***************
+Hi everyone.  My name is Saira.  I'm from London.
+score : 0.9949712753295898
+sentiment : Positive
+excluded words : ,saira,
+author:  Saira Hussain
+createdAt: 2020-06-02T21:35:16.296Z
+***************
+Hi Saira. Nice to meet you. In which part of London are you living?
+score : 0.9975990653038025
+sentiment : Positive
+excluded words : saira,living?
+author:  Helen Ala
+createdAt: 2020-06-02T21:36:31.276Z
+***************
+I'm in Leyton
+score : 0.28887054324150085
+sentiment : Negative
+excluded words : leyton
+author:  Saira Hussain
+createdAt: 2020-06-02T21:36:54.502Z
+***************
+😊
+score : 0.3841639459133148
+sentiment : Negative
+excluded words : 😊
+author:  Helen Ala
+createdAt: 2020-06-02T21:37:18.845Z
+***************
+Hi Helen, she is 2 and a half she is very cute. Alas we don’t have a garden. We do have mini adventures in the communal garden of our flat and the park nearby. She loves to kick her rainbow ball (there is a theme) and play with bubbles. How old is you son?
+score : 0.7638537287712097
+sentiment : Positive
+excluded words : don’t,(there,theme),son?
+author:  Sara Shenair
+createdAt: 2020-06-02T23:50:10.691Z
+***************
+Good Morning Sara. She sounds absolutely adorable. My son is soon to be 2, in August. Yes, bubbles are a winner in our household too. Have a beautiful day, Sara, and everyone else in this chat! Speak soon. Xx
+score : 0.9990541338920593
+sentiment : Positive
+excluded words : 
+author:  Helen Ala
+createdAt: 2020-06-03T06:49:58.874Z
+***************
+Same to you and all. Stay safe everyone. X
+score : 0.7365084886550903
+sentiment : Positive
+excluded words : 
+author:  Sara Shenair
+createdAt: 2020-06-03T08:07:51.260Z
+***************
+👋I’m Caroline! I work in the Community team, here at tiney! 
+Hoping you’re having a great experience so far with us😀
+score : 0.9488331079483032
+sentiment : Positive
+excluded words : 👋i’m,tiney,
+hoping,us😀
+author:  Caroline Austin
+createdAt: 2020-06-03T13:00:01.360Z
+***************
+I’m about to share a note from our CEO and Co-Founder, Brett. It’s a long message for a chat channel, but an important one to offer to our community...
+score : 0.9931582808494568
+sentiment : Positive
+excluded words : co-founder
+author:  Caroline Austin
+createdAt: 2020-06-03T13:02:59.999Z
+***************
+Dear tiney community members,
+
+Like many of you, we have been heartbroken by the murder of George Floyd in America and the general feeling of powerlessness that so many in that country and around the world feel during the current crisis.
+
+At tiney, we are working to build a community that operates in the spirit of social justice through supporting small entrepreneurs in starting and running successful businesses and ensuring all children have access to outstanding education and care at the youngest ages where it can have the greatest impact. 
+
+We would like to invite you to a discussion forum next Wednesday, 10th June at 4pm on Zoom, to talk about what we are feeling and give a space for community members to share ideas and thoughts on how tiney can build a community that delivers on this promise.
+
+Best wishes,
+Brett
+score : 0.9817206859588623
+sentiment : Positive
+excluded words : tiney,members
+
+like,crisis
+
+at,tiney,entrepreneurs,
+
+we,tiney,promise
+
+best,wishes
+brett
+author:  Caroline Austin
+createdAt: 2020-06-03T13:03:13.799Z
+***************
+Please let me know (either in reply here or via direct message) if you’d be interested in joining that discussion.
+score : 0.3179965019226074
+sentiment : Negative
+excluded words : (either,message),you’d
+author:  Caroline Austin
+createdAt: 2020-06-03T13:05:19.584Z
+***************
+Thank you for your time🙌
+score : 0.6655210256576538
+sentiment : Positive
+excluded words : time🙌
+author:  Caroline Austin
+createdAt: 2020-06-03T13:10:34.885Z
+***************
+I’ll send the video call, Zoom, info closer to the time. 👍
+score : 0.512459933757782
+sentiment : Negative
+excluded words : i’ll,👍
+author:  Caroline Austin
+createdAt: 2020-06-03T13:11:11.817Z
+***************
+I'm trying to upload my consent form and it wont let me how else can I send it through x
+score : 0.0027546107303351164
+sentiment : Negative
+excluded words : upload
+author:  Lacey James
+createdAt: 2020-06-03T13:34:21.365Z
+***************
+Hi lacey I am too having trouble uploading my consent forms as I would like to move forward onto the next task I have sent a help support mesaage out to tiney but havnt yet had a response.
+score : 0.11681293696165085
+sentiment : Negative
+excluded words : uploading,mesaage,tiney
+author:  Rieann Thomas
+createdAt: 2020-06-03T13:36:49.238Z
+***************
+Thank you Caroline
+score : 0.7476900219917297
+sentiment : Positive
+excluded words : 
+author:  Linnette Jeffrey
+createdAt: 2020-06-03T13:36:54.886Z
+***************
+Hi rieann yes I have messaged too hopefully they get back soon
+score : 0.5220791697502136
+sentiment : Negative
+excluded words : rieann,messaged
+author:  Lacey James
+createdAt: 2020-06-03T13:38:06.499Z
+***************
+Rieann they replied to me have they you ?
+score : 0.6067744493484497
+sentiment : Negative
+excluded words : rieann,?
+author:  Lacey James
+createdAt: 2020-06-03T13:48:36.669Z
+***************
+Hey lacey still havnt heard anything
+score : 0.035567544400691986
+sentiment : Negative
+excluded words : 
+author:  Rieann Thomas
+createdAt: 2020-06-03T13:50:02.532Z
+***************
+community@tiney.com email it to this and confirm you have been trying but it  He's not letting you upload the document leave your name and attach a document  Into the email
+score : 0.9685784578323364
+sentiment : Positive
+excluded words : community@tineycom,,upload,
+author:  Lacey James
+createdAt: 2020-06-03T13:51:21.543Z
+***************
+Thank you so much laycey much appriciated
+score : 0.17394320666790009
+sentiment : Negative
+excluded words : laycey,appriciated
+author:  Rieann Thomas
+createdAt: 2020-06-03T13:53:11.753Z
+***************
+That's ok hun
+score : 0.5014669299125671
+sentiment : Negative
+excluded words : 
+author:  Lacey James
+createdAt: 2020-06-03T13:54:57.292Z
+***************
+Hi Rieann. Hope message from Tom to support has reached you safely and that help🤞
+score : 0.9852979779243469
+sentiment : Positive
+excluded words : rieann,help🤞
+author:  Caroline Austin
+createdAt: 2020-06-03T14:01:39.031Z
+***************
+Thanks so much for your patience everyone with the app. It’s excitingly new, as we recently moved our training experience from being in-person to in the app 📱
+score : 0.9739639163017273
+sentiment : Positive
+excluded words : in-person,📱
+author:  Caroline Austin
+createdAt: 2020-06-03T14:04:58.884Z
+***************
+Hi thank you caroline thank you so much I have now recieved tom message.
+score : 0.9960730075836182
+sentiment : Positive
+excluded words : 
+author:  Rieann Thomas
+createdAt: 2020-06-03T14:08:33.906Z
+***************
+👍😄
+score : 0.3841639459133148
+sentiment : Negative
+excluded words : 👍😄
+author:  Caroline Austin
+createdAt: 2020-06-03T14:16:58.842Z
+***************
+Hi, am Sarah from London. Trust everyone is well?
+score : 0.9078036546707153
+sentiment : Positive
+excluded words : well?
+author:  Sarah Omoreme
+createdAt: 2020-06-03T14:34:07.635Z
+***************
+Hi Sarah nice to meet you.
+score : 0.9204879403114319
+sentiment : Positive
+excluded words : 
+author:  Sara Shenair
+createdAt: 2020-06-03T15:19:07.297Z
+***************
+Hi all, I do not have a printer, does anyone have ideas on how to sign the forms without one?
+score : 0.4996362030506134
+sentiment : Negative
+excluded words : one?
+author:  Sara Shenair
+createdAt: 2020-06-03T15:22:51.773Z
+***************
+Hi Sara, thank you and nice to meet you too
+score : 0.9957681894302368
+sentiment : Positive
+excluded words : 
+author:  Sarah Omoreme
+createdAt: 2020-06-03T15:27:05.174Z
+***************
+Hi Sara, I think that might be possible, ehmmmm try SignEasy app and see. Please let me know if it works. All the best
+score : 0.9981665015220642
+sentiment : Positive
+excluded words : ehmmmm,signeasy
+author:  Sarah Omoreme
+createdAt: 2020-06-03T15:31:27.676Z
+***************
+Is anyone else having trouble with filling in the You and Your Home form. It's not letting me complete the form when I upload my passport
+score : 0.6735718250274658
+sentiment : Positive
+excluded words : upload
+author:  Linnette Jeffrey
+createdAt: 2020-06-03T16:02:17.712Z
+***************
+I'm having the same problem with the consent form but I emailed it to 
+community@tiney.co instead.
+score : 0.06616070121526718
+sentiment : Negative
+excluded words : 
+community@tineyco
+author:  Lydia Solomon
+createdAt: 2020-06-03T16:23:24.358Z
+***************
+Update the app it should have a update mines working now x
+score : 0.43016692996025085
+sentiment : Negative
+excluded words : 
+author:  Lacey James
+createdAt: 2020-06-03T16:26:05.910Z
+***************
+After talking to Pete he said the app needed to be updated. You may need to switch your phone off and on again to get the option for an update. It finally worked after trying to complete the form 20 times 🤣
+score : 0.1781509518623352
+sentiment : Negative
+excluded words : 🤣
+author:  Linnette Jeffrey
+createdAt: 2020-06-03T16:31:08.783Z
+***************
+Hi guys, has anyone started the training yet?
+score : 0.31214195489883423
+sentiment : Negative
+excluded words : yet?
+author:  Sarah Omoreme
+createdAt: 2020-06-03T16:50:40.383Z
+***************
+Yes I have Sarah z
+score : 0.029691796749830246
+sentiment : Negative
+excluded words : 
+author:  Lacey James
+createdAt: 2020-06-03T16:51:14.560Z
+***************
+Hi Sarah, yes I've completed the first 3 units, how are you getting on?
+score : 0.6757099628448486
+sentiment : Positive
+excluded words : on?
+author:  Linnette Jeffrey
+createdAt: 2020-06-03T16:51:53.341Z
+***************
+Oh whoa that’s quick, weldone. am on the 2unit
+Is there a time limit or frame to complete the training?
+score : 0.02463488280773163
+sentiment : Negative
+excluded words : weldone,2unit
+is,training?
+author:  Sarah Omoreme
+createdAt: 2020-06-03T17:01:57.676Z
+***************
+I was told 6 weeks
+score : 0.9183070063591003
+sentiment : Positive
+excluded words : 
+author:  Linnette Jeffrey
+createdAt: 2020-06-03T17:03:34.168Z
+***************
+Thanks Linnette, I should be way done before then.
+score : 0.9909349083900452
+sentiment : Positive
+excluded words : linnette
+author:  Sarah Omoreme
+createdAt: 2020-06-03T17:04:51.490Z
+***************
+Hi Sarah yes I have completed 5 units somehow! Poonam :)
+score : 0.7243249416351318
+sentiment : Positive
+excluded words : :)
+author:  Poonam Sawhney
+createdAt: 2020-06-03T17:09:42.694Z
+***************
+It's quite nice that the learning programs are not long and intence especially if you have covered most of the areas in previous childcare training, the videos are really helpful too.
+score : 0.9925510883331299
+sentiment : Positive
+excluded words : intence,childcare
+author:  Linnette Jeffrey
+createdAt: 2020-06-03T17:15:11.949Z
+***************
+Yes I agree Linnette. I really do like the videos too 👍
+score : 0.4161469638347626
+sentiment : Negative
+excluded words : linnette,👍
+author:  Poonam Sawhney
+createdAt: 2020-06-03T17:17:38.754Z
+***************
+Hi everyone  hope you all well. Am new here. My name is Fatuma, i live in kingston upon Thames.  South london. You  guys are fast wow, you almost done with the traning. Hopfuly I will be done  by 6 weeks lol along with a 4 week old baby.
+score : 0.8268507719039917
+sentiment : Positive
+excluded words : ,fatuma,kingston,,,traning,hopfuly,
+author:  Fatuma Bukenya
+createdAt: 2020-06-03T19:21:19.706Z
+***************
+What happens if its not done in 6 weeks. Anybody know. Just wondering.
+score : 0.575354814529419
+sentiment : Negative
+excluded words : 
+author:  Fatuma Bukenya
+createdAt: 2020-06-03T19:22:09.965Z
+***************
+Omg, Fatuma. Your baby is so tiny. Don’t worry, you’ll have enough time to finish with the training. Some parts go really fast. What’s your little one’s name? Miss having a tiny baby in the house. So challenging, of course. How are you finding it?😊
+score : 0.8811076879501343
+sentiment : Positive
+excluded words : fatuma,don’t,you’ll,one’s,name?,it?😊
+author:  Helen Ala
+createdAt: 2020-06-03T19:24:31.785Z
+***************
+Hi Helen, lol her name is Leilah. At first it felt so awkward  with everything thats going on. My family havent even met her yet except through video. Very carzy time we in.
+score : 0.7755452990531921
+sentiment : Positive
+excluded words : leilah,,carzy
+author:  Fatuma Bukenya
+createdAt: 2020-06-03T19:33:50.056Z
+***************
+You are so brave to go through it in the current situation. Good luck and let me know if you need anything. You shouldn’t worry too much about the training. I did my TEFL teacher papers when mine was 6-month-old. Just try to out in 1-2 hrs every day, and you’ll be fine. Also, those materials are sooo exciting, you would want to read them. Xxx
+score : 0.9928225874900818
+sentiment : Positive
+excluded words : shouldn’t,tefl,6-month-old,1-2,you’ll
+author:  Helen Ala
+createdAt: 2020-06-03T19:44:05.808Z
+***************
+Try to put in 1-2 hrs, don’t know what my phone was doing. Lol. Xx
+score : 0.38457074761390686
+sentiment : Negative
+excluded words : 1-2,don’t
+author:  Helen Ala
+createdAt: 2020-06-03T19:45:14.718Z
+***************
+Thanks Helen. Yeah i was thinking i might do that.
+score : 0.7379636168479919
+sentiment : Positive
+excluded words : 
+author:  Fatuma Bukenya
+createdAt: 2020-06-03T19:59:26.645Z
+***************
+Hi All, I am so sorry I think I am very late in responding and introducing myself, I am Sayema nice to meet you all .
+score : 0.617254912853241
+sentiment : Negative
+excluded words : sayema,
+author:  Sayema Monnan
+createdAt: 2020-06-03T20:01:34.549Z
+***************
+Hello everyone, I am also new, going through the units. Nice to meet all of you. My name is Gillian and I am in west harrow
+score : 0.9952700734138489
+sentiment : Positive
+excluded words : 
+author:  Gillian Pappoe
+createdAt: 2020-06-03T20:02:16.956Z
+***************
+Hello all
+My name is Stellamaris and I am in Dagenham. I am new and trying to go through the units.
+score : 0.5049887299537659
+sentiment : Negative
+excluded words : all
+my,stellamaris,dagenham
+author:  Stellamaris Mclean
+createdAt: 2020-06-03T20:14:02.282Z
+***************
+Hi im Sarah nice to meet you all.
+score : 0.9711744785308838
+sentiment : Positive
+excluded words : 
+author:  Sarah Gully
+createdAt: 2020-06-03T21:08:50.203Z
+***************
+Hello and welcome Sarah, Stellamaris, Gillian and Sayema!! 😊
+score : 0.9038170576095581
+sentiment : Positive
+excluded words : stellamaris,sayema,😊
+author:  Helen Ala
+createdAt: 2020-06-03T21:21:09.862Z
+***************
+I wish my little girl was a baby again now I got a terrible two aha and she requires alot of watching 24/7 as she into everything
+score : 0.5275201201438904
+sentiment : Negative
+excluded words : 24/7
+author:  Lacey James
+createdAt: 2020-06-03T21:24:03.466Z
+***************
+Ohh yes. Lol
+score : 0.639850914478302
+sentiment : Negative
+excluded words : 
+author:  Fatuma Bukenya
+createdAt: 2020-06-03T21:25:14.363Z
+***************
+Hi 👋🏽 guys nice to meet you all hope your all well x
+score : 0.9981430768966675
+sentiment : Positive
+excluded words : 👋🏽
+author:  Bianca Mears
+createdAt: 2020-06-04T06:31:25.970Z
+***************
+Anyone live near Coulsdon, Croydon?
+score : 0.3024998605251312
+sentiment : Negative
+excluded words : coulsdon,croydon?
+author:  Bianca Mears
+createdAt: 2020-06-04T06:32:05.926Z
+***************
+Hi, you are not far from me, I live in south Croydon.
+score : 0.947163999080658
+sentiment : Positive
+excluded words : 
+author:  Sarah Omoreme
+createdAt: 2020-06-04T09:25:28.405Z
+***************
+I live in Dagenham Heathway. Anyone near me?
+score : 0.21443815529346466
+sentiment : Negative
+excluded words : dagenham,heathway,me?
+author:  Sayema Monnan
+createdAt: 2020-06-04T09:26:44.794Z
+***************
+Plaistow e13
+score : 0.3841639459133148
+sentiment : Negative
+excluded words : plaistow,e13
+author:  Sara Shenair
+createdAt: 2020-06-04T09:27:25.491Z
+***************
+Not very far from me
+score : 0.07274981588125229
+sentiment : Negative
+excluded words : 
+author:  Sayema Monnan
+createdAt: 2020-06-04T09:27:42.443Z
+***************
+Nice to meet you Sara
+score : 0.9423089623451233
+sentiment : Positive
+excluded words : 
+author:  Sayema Monnan
+createdAt: 2020-06-04T09:27:55.428Z
+***************
+You too Sayema
+score : 0.4412664771080017
+sentiment : Negative
+excluded words : sayema
+author:  Sara Shenair
+createdAt: 2020-06-04T09:28:26.921Z
+***************
+Hi @HelenAla
+score : 0.8883174061775208
+sentiment : Positive
+excluded words : @helenala
+author:  Sayema Monnan
+createdAt: 2020-06-04T09:28:32.002Z
+***************
+I need to start on my units how are you all doing so far who has started
+score : 0.027702419087290764
+sentiment : Negative
+excluded words : 
+author:  Sayema Monnan
+createdAt: 2020-06-04T09:29:16.367Z
+***************
+Hi Sayema. I have started and on the 4th unit at the moment, so as you can see, I am taking my sweet time. 😊 I don’t think there is a need to rush through the units, it’s more about keeping a steady pace.
+score : 0.9997162222862244
+sentiment : Positive
+excluded words : sayema,😊,don’t
+author:  Helen Ala
+createdAt: 2020-06-04T09:42:02.518Z
+***************
+Great thanks helen
+score : 0.5040661096572876
+sentiment : Negative
+excluded words : 
+author:  Sayema Monnan
+createdAt: 2020-06-04T10:00:33.135Z
+***************
+Hi guys, I’m Nikki & I’m from Croydon, Shirley. I’m hoping to crack on & get as much as I can done today. I do have a 3 year old so this is subject to his behaviour 😑 hope everyone is well & lovely to meet you all xo
+score : 0.9964603781700134
+sentiment : Positive
+excluded words : &,&,😑,&
+author:  Nikki Walsh
+createdAt: 2020-06-04T10:01:51.274Z
+***************
+Hi Everyone nice to meet you all,I live around Dagenham Heathway too Sayema.
+score : 0.9892768859863281
+sentiment : Positive
+excluded words : dagenham,heathway,sayema
+author:  Lydia Solomon
+createdAt: 2020-06-04T10:33:07.175Z
+***************
+Hi has any one  answered the quiz and got a wrong answer but its actually  the correct answer i no this might sound like an odd question bit confused
+score : 0.9159752130508423
+sentiment : Positive
+excluded words : ,
+author:  Sarah Gully
+createdAt: 2020-06-04T13:08:52.507Z
+***************
+Hi Sarah. I know what you mean. I had the same problem. Shouldn’t affect your overall scare too much. I had a similar situation a few times. Maybe we should let the Tiney team know, however. 😊
+score : 0.9284045696258545
+sentiment : Positive
+excluded words : shouldn’t,tiney,😊
+author:  Helen Ala
+createdAt: 2020-06-04T13:10:58.255Z
+***************
+Overall score lol
+score : 0.18784433603286743
+sentiment : Negative
+excluded words : 
+author:  Helen Ala
+createdAt: 2020-06-04T13:11:33.450Z
+***************
+Oh gosh im not going mad then 😄 im definitely going to bring it up them as i think its slightly unfair
+score : 0.03452995419502258
+sentiment : Negative
+excluded words : 😄
+author:  Sarah Gully
+createdAt: 2020-06-04T13:12:49.928Z
+***************
+Of course, you are totally right and not mad at all! 👍😊
+score : 0.6661115884780884
+sentiment : Positive
+excluded words : 👍😊
+author:  Helen Ala
+createdAt: 2020-06-04T13:22:30.288Z
+***************
+I have sent  my concerns to Peter at Tiney who is going to look in to the problem 🙂
+score : 0.30800721049308777
+sentiment : Negative
+excluded words : ,tiney,🙂
+author:  Sarah Gully
+createdAt: 2020-06-04T13:41:07.128Z
+***************
+Sajida is also very good
+score : 0.8320557475090027
+sentiment : Positive
+excluded words : sajida
+author:  Sayema Monnan
+createdAt: 2020-06-05T09:35:23.576Z
+***************
+Does anyone know how to get into the training via Laptop browser
+score : 0.8740948438644409
+sentiment : Positive
+excluded words : 
+author:  Sayema Monnan
+createdAt: 2020-06-05T09:35:59.160Z
+***************
+Good morning everyone, trust you are well today. @Sayema that option of using your laptop to access the training is not available at the moment but they are looking into it. Pete has promised to let me know as soon as there is an update.
+score : 0.9904019236564636
+sentiment : Positive
+excluded words : @sayema
+author:  Sarah Omoreme
+createdAt: 2020-06-05T09:52:35.465Z
+***************
+Thank you Sarah. Would be really helpful for the eyes if they did have it. Hopefully soon.
+score : 0.9879664778709412
+sentiment : Positive
+excluded words : 
+author:  Sayema Monnan
+createdAt: 2020-06-05T09:56:18.090Z
+***************
+I know, I said the same thing lol
+score : 0.9144688844680786
+sentiment : Positive
+excluded words : 
+author:  Sarah Omoreme
+createdAt: 2020-06-05T09:57:46.875Z
+***************
+That's a good thought  Sayema as am struggling to use a small phone screen.
+score : 0.6378700733184814
+sentiment : Negative
+excluded words : ,sayema
+author:  Lydia Solomon
+createdAt: 2020-06-05T10:02:05.568Z
+***************
+Hi everyone I am new just join few minutes ago
+score : 0.8762499690055847
+sentiment : Positive
+excluded words : 
+author:  Nelly Gnamien
+createdAt: 2020-06-05T13:47:50.126Z
+***************
+Hi everyone
+I am a new member and I have just downloaded the background checks forms. Can I start the training or wait until after the completion.
+score : 0.55359947681427
+sentiment : Negative
+excluded words : everyone
+i
+author:  Stellamaris Mclean
+createdAt: 2020-06-05T13:58:30.071Z
+***************
+Hi everyone. I have just started my training. I have been really looking forward to it.
+score : 0.9345238208770752
+sentiment : Positive
+excluded words : 
+author:  Lucy Katongo Majekodunmi
+createdAt: 2020-06-05T14:01:24.182Z
+***************
+Hi Sayema. I live in Dagenham too, Near Morrisons. I am between Dagenham Hathaway and Romford.
+score : 0.7938189506530762
+sentiment : Positive
+excluded words : sayema,dagenham,morrisons,dagenham,romford
+author:  Lucy Katongo Majekodunmi
+createdAt: 2020-06-05T14:10:27.538Z
+***************
+Welcome Lucy you can start the training while you do the checks 😊 Just started mine I live around Dagenham Heathway.
+score : 0.7591023445129395
+sentiment : Positive
+excluded words : 😊,dagenham,heathway
+author:  Lydia Solomon
+createdAt: 2020-06-05T14:23:29.212Z
+***************
+Good morning  everyone. Just wondering  if you also having the same problem as me. On the checks when i click on them they dont seem to work but the form i have to print and sign works. The others seem to be frozen is that because i have done them already or they have a problem. Am confused. I seem to have already done them i think its the same ones i filled in before.
+score : 0.36452236771583557
+sentiment : Negative
+excluded words : ,
+author:  Fatuma Bukenya
+createdAt: 2020-06-08T07:16:27.027Z
+***************
+Good Morning, Fatuma! So sorry to hear this. It can be confusing and stressful when it happens. Which checkes are you having this problem with?
+score : 0.245588019490242
+sentiment : Negative
+excluded words : fatuma,checkes,with?
+author:  Helen Ala
+createdAt: 2020-06-08T08:16:21.826Z
+***************
+Good morning, you may need to update your app then try again.
+score : 0.9881858825683594
+sentiment : Positive
+excluded words : 
+author:  Linnette Jeffrey
+createdAt: 2020-06-08T08:20:40.932Z
+***************
+Thanks Lydia. Hope you are getting on well with the training.
+score : 0.9731215238571167
+sentiment : Positive
+excluded words : 
+author:  Lucy Katongo Majekodunmi
+createdAt: 2020-06-08T08:35:02.611Z
+***************
+Yes Lucy  I doing my best.
+score : 0.9633035063743591
+sentiment : Positive
+excluded words : 
+author:  Lydia Solomon
+createdAt: 2020-06-08T09:46:26.624Z
+***************
+Great. I am working through mine too. All the best.
+score : 0.9734043478965759
+sentiment : Positive
+excluded words : 
+author:  Lucy Katongo Majekodunmi
+createdAt: 2020-06-08T09:59:35.963Z
+***************
+Good afternoon, is anyone starting up in or around Wimbledon?
+score : 0.2103831171989441
+sentiment : Negative
+excluded words : wimbledon?
+author:  Emily Sloan
+createdAt: 2020-06-08T15:59:28.916Z
+***************
+Hi does any one know if you can redo units, as doing them on a small screen is very frustrating and have made  a few silly mistakes
+score : 0.9905586242675781
+sentiment : Positive
+excluded words : 
+author:  Sarah Gully
+createdAt: 2020-06-08T21:58:51.937Z
+***************
+Hi  Emily am in Kingston  so not fat from Wimbledon
+score : 0.023811254650354385
+sentiment : Negative
+excluded words : ,kingston,,wimbledon
+author:  Fatuma Bukenya
+createdAt: 2020-06-08T22:17:01.054Z
+***************
+Hi Helen i mean on my to do list. When i click on insurance yerms nothing happens as if its frozen but when i click my consent  form it opens.
+score : 0.06300237029790878
+sentiment : Negative
+excluded words : yerms,
+author:  Fatuma Bukenya
+createdAt: 2020-06-08T22:20:58.148Z
+***************
+Hi Fatuma! That’s odd, yes. I think the best thing to do is to contact Tiney, and let’s see what they say. I hope you will get this sorted. Xx
+score : 0.9158995151519775
+sentiment : Positive
+excluded words : fatuma,tiney,let’s
+author:  Helen Ala
+createdAt: 2020-06-09T06:53:20.503Z
+***************
+Hi Fatima, good to hear from someone nearby 🥰
+score : 0.9775403141975403
+sentiment : Positive
+excluded words : fatima,🥰
+author:  Emily Sloan
+createdAt: 2020-06-09T09:02:27.025Z
+***************
+Hello
+score : 0.46034058928489685
+sentiment : Negative
+excluded words : 
+author:  Rekha Lalji
+createdAt: 2020-06-09T10:11:25.338Z
+***************
+I am still training on line
+score : 0.7912293672561646
+sentiment : Positive
+excluded words : 
+author:  Rekha Lalji
+createdAt: 2020-06-09T10:11:52.626Z
+***************
+Just to check has anyone finished  their units?
+score : 0.07160628587007523
+sentiment : Negative
+excluded words : ,units?
+author:  Lydia Solomon
+createdAt: 2020-06-09T11:19:21.345Z
+***************
+Hello everyone
+score : 0.9603609442710876
+sentiment : Positive
+excluded words : 
+author:  Lydia Solomon
+createdAt: 2020-06-09T11:19:30.744Z
+***************
+Hi Lydia,
+No, not yet - on my 5th now. Hope this helps. 😊
+score : 0.9624173641204834
+sentiment : Positive
+excluded words : lydia
+no,-,😊
+author:  Helen Ala
+createdAt: 2020-06-09T11:35:06.991Z
+***************
+Hi im on unit 5 to 🤗
+score : 0.748466432094574
+sentiment : Positive
+excluded words : 🤗
+author:  Sarah Gully
+createdAt: 2020-06-09T11:45:14.098Z
+***************
+Hi Sarah! Twinsies! 🥰🤗
+score : 0.8347718119621277
+sentiment : Positive
+excluded words : twinsies,🥰🤗
+author:  Helen Ala
+createdAt: 2020-06-09T11:47:09.000Z
+***************
+Hiya my name is rekha i am from edgware
+score : 0.09053728729486465
+sentiment : Negative
+excluded words : edgware
+author:  Rekha Lalji
+createdAt: 2020-06-09T11:53:57.307Z
+***************
+That's good, well done girls. I'm doing mine at random ,done 7units remaining 4.
+score : 0.5037100315093994
+sentiment : Negative
+excluded words : 7units
+author:  Lydia Solomon
+createdAt: 2020-06-09T11:55:07.736Z
+***************
+I noticed there are one with over 3hours of learning ,its Kind a scary
+score : 0.8242953419685364
+sentiment : Positive
+excluded words : 3hours
+author:  Lydia Solomon
+createdAt: 2020-06-09T11:56:18.581Z
+***************
+Hello, I'm Jhonelle. I'm based in Wembley. 🙋🏾‍♀️
+score : 0.9476017951965332
+sentiment : Positive
+excluded words : jhonelle,🙋🏾‍♀️
+author:  Jhonelle Williams
+createdAt: 2020-06-09T11:57:09.816Z
+***************
+Hello Jhonelle,lovely name.
+score : 0.029031872749328613
+sentiment : Negative
+excluded words : jhonellelovely
+author:  Lydia Solomon
+createdAt: 2020-06-09T11:57:43.975Z
+***************
+Yeah, I've been working through the shorter units first
+score : 0.7015734314918518
+sentiment : Positive
+excluded words : 
+author:  Jhonelle Williams
+createdAt: 2020-06-09T11:58:01.571Z
+***************
+Wow Jhoneelle  not far from me that's good
+score : 0.04398246482014656
+sentiment : Negative
+excluded words : jhoneelle,
+author:  Rekha Lalji
+createdAt: 2020-06-09T11:58:14.348Z
+***************
+Thank you! I'm glad I'm not the only one in North London
+score : 0.9839905500411987
+sentiment : Positive
+excluded words : 
+author:  Jhonelle Williams
+createdAt: 2020-06-09T12:02:21.955Z
+***************
+Hi guys any  tiney staff live in edgware who started a nursery home
+score : 0.9896976351737976
+sentiment : Positive
+excluded words : ,tiney,edgware
+author:  Rekha Lalji
+createdAt: 2020-06-09T13:17:28.460Z
+***************
+Jhonelle where in north London area you stay  in ?
+score : 0.10727402567863464
+sentiment : Negative
+excluded words : jhonelle,,?
+author:  Rekha Lalji
+createdAt: 2020-06-09T13:37:44.229Z
+***************
+Hi all, sorry to post a message mid conversation but does anyone know where to find the Tiney keeping children safe guide?
+score : 0.9984733462333679
+sentiment : Positive
+excluded words : tiney,guide?
+author:  Sara Shenair
+createdAt: 2020-06-09T13:57:43.531Z
+***************
+Hi Rekha, I'm in Willesden. And sorry Sara I'm still new so I'm not sure
+score : 0.7871224284172058
+sentiment : Positive
+excluded words : willesden
+author:  Jhonelle Williams
+createdAt: 2020-06-09T14:48:26.816Z
+***************
+Hi Rekha, thanks anyway and welcome :)
+score : 0.9182854890823364
+sentiment : Positive
+excluded words : :)
+author:  Sara Shenair
+createdAt: 2020-06-09T14:49:48.913Z
+***************
+Hi has anyone registered for the dbs checks yet? Do we have to pay the £13?
+score : 0.8425129055976868
+sentiment : Positive
+excluded words : dbs,yet?,£13?
+author:  Bianca Mears
+createdAt: 2020-06-09T17:45:51.061Z
+***************
+Hi i have just done mine and got an confirmation email yesterday then i had to pay the £13
+score : 0.8648478388786316
+sentiment : Positive
+excluded words : £13
+author:  Sarah Gully
+createdAt: 2020-06-09T17:52:47.891Z
+***************
+Hi Bianca, i have and no i didn't pay the £13 but they gave me 10 days to upload my ID to tiney or you have to redo the form  again the  again.
+score : 0.43130287528038025
+sentiment : Negative
+excluded words : £13,upload,tiney,,
+author:  Fatuma Bukenya
+createdAt: 2020-06-09T17:54:04.504Z
+***************
+Ok thank you fatuma 😊
+score : 0.3369055688381195
+sentiment : Negative
+excluded words : fatuma,😊
+author:  Bianca Mears
+createdAt: 2020-06-09T17:56:16.740Z
+***************
+Hi, everyone my name is Oyebisi. I am also on the DBS Check update and asked to pay £13 and please has anyone done DBS CHECK for people over 16years in their household. I don't know if am going to do it separately.
+score : 0.9783676266670227
+sentiment : Positive
+excluded words : oyebisi,dbs,£13,dbs,16years
+author:  Salami Oyebisi
+createdAt: 2020-06-09T23:20:55.376Z
+***************
+Hi Salami, yes you would need to do them separately as I did the same and payed £13 for each one on the update service.
+score : 0.5546523928642273
+sentiment : Negative
+excluded words : salami,£13
+author:  Sarah Omoreme
+createdAt: 2020-06-09T23:39:23.809Z
+***************
+Hi is anyone also having problems with their to do list. Like frezzing  up not working, opening  the checks you need to do
+score : 0.7460119724273682
+sentiment : Positive
+excluded words : frezzing,,
+author:  Fatuma Bukenya
+createdAt: 2020-06-10T12:01:09.256Z
+***************
+Sorry  meant not opening up the checks
+score : 0.016270224004983902
+sentiment : Negative
+excluded words : 
+author:  Fatuma Bukenya
+createdAt: 2020-06-10T12:01:37.700Z
+***************
+Thanks so much Sarah Omoreme for the information. I really do appreciate. I can now continue with my update.
+score : 0.9990955591201782
+sentiment : Positive
+excluded words : omoreme
+author:  Salami Oyebisi
+createdAt: 2020-06-10T14:10:54.669Z
+***************
+Hi guy has anyone else’s GP charging £30 to fill out the health form 🤦🏽‍♀️? I just think that’s really expensive.
+score : 0.911414623260498
+sentiment : Positive
+excluded words : else’s,£30,🤦🏽‍♀️?
+author:  Bianca Mears
+createdAt: 2020-06-11T15:55:34.462Z
+***************
+Hi Bianca yes mine did today x
+score : 0.9817264676094055
+sentiment : Positive
+excluded words : 
+author:  Poonam Sawhney
+createdAt: 2020-06-11T16:02:06.867Z
+***************
+Hi how did you print your declaration form as I printed mine from an iPad and information missing from areas
+score : 0.9998362064361572
+sentiment : Positive
+excluded words : ipad
+author:  Sarah Gully
+createdAt: 2020-06-11T16:04:17.990Z
+***************
+Hi Sarah yes mine was the same I just copied the missing bits on to the form
+score : 0.8796324729919434
+sentiment : Positive
+excluded words : 
+author:  Bianca Mears
+createdAt: 2020-06-11T16:36:25.326Z
+***************
+Hi Bianca,your GP is nice mine said they're not doing health checks now due to Covid 19 can you imagine 🤔?
+score : 0.9977028965950012
+sentiment : Positive
+excluded words : biancayour,covid,🤔?
+author:  Lydia Solomon
+createdAt: 2020-06-11T17:01:18.815Z
+***************
+Oh gosh thats a point i will check with mind tomorrow how annoying
+score : 0.012692651711404324
+sentiment : Negative
+excluded words : 
+author:  Sarah Gully
+createdAt: 2020-06-11T17:12:36.139Z
+***************
+You are actually lucky coz mine charged me £50. 🙁
+score : 0.996320366859436
+sentiment : Positive
+excluded words : 🙁
+author:  Lucy Katongo Majekodunmi
+createdAt: 2020-06-11T17:22:04.365Z
+***************
+I think my is £90
+score : 0.5420225262641907
+sentiment : Negative
+excluded words : £90
+author:  Fatuma Bukenya
+createdAt: 2020-06-11T17:29:41.637Z
+***************
+Havent  checked  but was told by a friend
+score : 0.8238174915313721
+sentiment : Positive
+excluded words : ,
+author:  Fatuma Bukenya
+createdAt: 2020-06-11T17:30:17.290Z
+***************
+I heard they could charge upto around £91
+score : 0.07409507036209106
+sentiment : Negative
+excluded words : £91
+author:  Lucy Katongo Majekodunmi
+createdAt: 2020-06-11T17:44:50.661Z
+***************
+Hi guys. Has anyone come across the 'keeping children safe guide' on this app please?
+score : 0.990145742893219
+sentiment : Positive
+excluded words : 'keeping,guide',please?
+author:  Lucy Katongo Majekodunmi
+createdAt: 2020-06-11T17:52:46.025Z
+***************
+My one  was 105 pound I just paid early
+score : 0.04339364171028137
+sentiment : Negative
+excluded words : 
+author:  Rekha Lalji
+createdAt: 2020-06-11T17:53:07.711Z
+***************
+Hi guys I am trying to print out the declaration form. It the first link about me or anyone above 18 and the second link is anyone under 16 is that includes children under 1
+score : 0.9326702952384949
+sentiment : Positive
+excluded words : 
+author:  Nasra Haybe
+createdAt: 2020-06-11T18:03:28.805Z
+***************
+Hi guys anyone else experienced issues when trying to open up risk assessment template? It says I need to gain access? :(
+score : 0.14430691301822662
+sentiment : Negative
+excluded words : template?,access?,:(
+author:  Poonam Sawhney
+createdAt: 2020-06-11T18:06:10.880Z
+***************
+Wow that's  crazy money
+score : 0.021388716995716095
+sentiment : Negative
+excluded words : 
+author:  Sarah Gully
+createdAt: 2020-06-11T18:14:37.524Z
+***************
+I couldn't find it either as we have to answer the questions  dont  we by writing some sentences 🤔
+score : 0.09228583425283432
+sentiment : Negative
+excluded words : ,,🤔
+author:  Sarah Gully
+createdAt: 2020-06-11T18:15:25.825Z
+***************
+Yes we do. I've emailed the guys at Tiney. Will let you know when they get back.
+score : 0.4509221613407135
+sentiment : Negative
+excluded words : tiney
+author:  Lucy Katongo Majekodunmi
+createdAt: 2020-06-11T18:18:23.073Z
+***************
+Wow guys I can’t believe how much they are charging!! I won’t complain about mine then 🙁
+score : 0.9607091546058655
+sentiment : Positive
+excluded words : won’t,🙁
+author:  Bianca Mears
+createdAt: 2020-06-11T19:08:13.218Z
+***************
+Its disgusting
+score : 0.07452605664730072
+sentiment : Negative
+excluded words : 
+author:  Sarah Gully
+createdAt: 2020-06-11T19:35:11.747Z
+***************
+Thanks, Caroline. You too have a wonderful weekend! 🌞😊
+score : 0.9922522902488708
+sentiment : Positive
+excluded words : 🌞😊
+author:  Helen Ala
+createdAt: 2020-06-12T16:08:38.465Z
+***************
+👋 everyone! We are super grateful for all your help and feedback with our new app! 📱Couldn’t ask for a better group of people to be giving it its first, exciting run through! 🌟 Thank you for your patience and understanding. Hope you’re all enjoying the training! 🙌 Have fab weekends🎉
+score : 0.9997807145118713
+sentiment : Positive
+excluded words : 👋,📱couldn’t,🌟,🙌,weekends🎉
+author:  Caroline Austin
+createdAt: 2020-06-12T16:09:32.410Z
+***************
+Thanks Helen 😊
+score : 0.34502920508384705
+sentiment : Negative
+excluded words : 😊
+author:  Caroline Austin
+createdAt: 2020-06-12T16:10:37.056Z
+***************
+Hello everyone
+Please what is the time frame to complete the training??
+score : 0.348359614610672
+sentiment : Negative
+excluded words : everyone
+please,training??
+author:  Stellamaris Mclean
+createdAt: 2020-06-12T18:02:45.786Z
+***************
+6 weeks Stellamaris 👍
+score : 0.9231071472167969
+sentiment : Positive
+excluded words : stellamaris,👍
+author:  Caroline Austin
+createdAt: 2020-06-13T07:30:33.272Z
+***************
+Hi Lisa! Hi everyone, my name is Nana Fatimah but calling me just Nana is fine. It’s nice to be here.
+score : 0.9989790916442871
+sentiment : Positive
+excluded words : fatimah
+author:  Nana Fatimah Alakija
+createdAt: 2020-06-16T09:23:23.979Z
+***************
+Hi Nana, hope you are doing well. And welcome:)
+score : 0.9903094172477722
+sentiment : Positive
+excluded words : welcome:)
+author:  Sara Shenair
+createdAt: 2020-06-16T09:29:13.713Z
+***************
+Hi Sara! Yes, thank you very much. I hope you’re doing great.
+score : 0.998917818069458
+sentiment : Positive
+excluded words : 
+author:  Nana Fatimah Alakija
+createdAt: 2020-06-16T09:30:32.800Z
+***************
+Hi everyone my name is Shrilania, you all can shorten it to Shri, hope everyone is getting on ok
+score : 0.9998989105224609
+sentiment : Positive
+excluded words : shrilania,shri
+author:  Shrilania Lewis
+createdAt: 2020-06-16T09:33:54.560Z
+***************
+Hi Shri, hope you are doing well too, so where are you and Nana based?
+score : 0.9979820251464844
+sentiment : Positive
+excluded words : shri,based?
+author:  Sara Shenair
+createdAt: 2020-06-16T09:35:25.333Z
+***************
+Question for both of you. Sounded like I was asking just Shri
+score : 0.5591996908187866
+sentiment : Negative
+excluded words : shri
+author:  Sara Shenair
+createdAt: 2020-06-16T09:36:21.118Z
+***************
+Am base in streatham
+score : 0.1071535050868988
+sentiment : Negative
+excluded words : streatham
+author:  Shrilania Lewis
+createdAt: 2020-06-16T09:37:19.540Z
+***************
+Hi Shri, 😄 I got that it was for both of us. I am in Hackney.
+score : 0.991248369216919
+sentiment : Positive
+excluded words : shri,😄
+author:  Nana Fatimah Alakija
+createdAt: 2020-06-16T09:37:52.790Z
+***************
+I am in Plaistow, so close to nana.
+score : 0.8425253629684448
+sentiment : Positive
+excluded words : plaistow
+author:  Sara Shenair
+createdAt: 2020-06-16T09:38:44.090Z
+***************
+Good morning all. My name is Christina, I’m based in canning town. Hope everyone is well.
+score : 0.9987838864326477
+sentiment : Positive
+excluded words : 
+author:  Christina Fosu
+createdAt: 2020-06-16T09:42:07.766Z
+***************
+Wow Christina, we are practically neighbours.
+score : 0.9193969368934631
+sentiment : Positive
+excluded words : 
+author:  Sara Shenair
+createdAt: 2020-06-16T09:43:16.028Z
+***************
+Yes very close.
+score : 0.8446133136749268
+sentiment : Positive
+excluded words : 
+author:  Christina Fosu
+createdAt: 2020-06-16T09:43:56.263Z
+***************
+What is the estimate cost to fill out the health declaration form from a GP ?
+score : 0.7913343906402588
+sentiment : Positive
+excluded words : ?
+author:  Shrilania Lewis
+createdAt: 2020-06-16T10:25:34.365Z
+***************
+It depends on your Gp. From £30 -90
+score : 0.19982391595840454
+sentiment : Negative
+excluded words : £30,-90
+author:  Fatuma Bukenya
+createdAt: 2020-06-16T11:02:16.497Z
+***************
+Or more
+score : 0.7396730184555054
+sentiment : Positive
+excluded words : 
+author:  Fatuma Bukenya
+createdAt: 2020-06-16T11:02:24.987Z
+***************
+Hello  everyone have anyone finished this units🤔?
+score : 0.5488672256469727
+sentiment : Negative
+excluded words : ,units🤔?
+author:  Lydia Solomon
+createdAt: 2020-06-16T11:08:37.508Z
+***************
+Hello everyone my name is Benedicta 
+It nice to meet you all
+score : 0.9861939549446106
+sentiment : Positive
+excluded words : benedicta,
+it
+author:  Benedicta-Rosanne Yandima Mbu
+createdAt: 2020-06-16T11:08:55.665Z
+***************
+Hi Lydia. Not yet. I think they added a bit more to the safeguarding unit. How are you getting on?
+score : 0.8109877705574036
+sentiment : Positive
+excluded words : on?
+author:  Lucy Katongo Majekodunmi
+createdAt: 2020-06-16T11:11:42.752Z
+***************
+Hi Benedicta. You are welcome.
+score : 0.8997628688812256
+sentiment : Positive
+excluded words : benedicta
+author:  Lucy Katongo Majekodunmi
+createdAt: 2020-06-16T11:12:22.519Z
